@@ -1,0 +1,4 @@
+baseURL = 'https://blog.doohu.ninja/'
+languageCode = 'en-us'
+title = "Doohu's Vuln Blog"
+theme = 'risotto'
